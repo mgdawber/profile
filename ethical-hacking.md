@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Ethical Hacking
 
-_yay_
+lorem ipsum.
 
 [back](./)
